@@ -1,5 +1,5 @@
 # Recorrupted-to-Recorrupted-Image-Denoising
-There are multiple datasets needed in order to run the code.\\
+There are multiple datasets needed in order to run the code.
 To get the BSD 400 Dataset to generate training data for the DnCNN, use https://github.com/cszn/DnCNN
 
 To get the PolyU dataset, use https://github.com/csjunxu/PolyU-Real-World-Noisy-Images-Dataset
