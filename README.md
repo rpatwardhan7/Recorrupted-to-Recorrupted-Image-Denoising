@@ -1,4 +1,8 @@
 # Recorrupted-to-Recorrupted-Image-Denoising
+
+Disclaimer (please see private question @489 on Piazza):
+When initially selecting the project, the paper did not have an existing public code implementation. When implementing the project, we reached out to the paper authors for clarification on the matrix computations and pre-processing. On December 7th, they responded to us, clarifying our doubts, but they also mentioned that they had published their code on github. However, in the time period between emailing the authors and their response, we were able to implement the main results of the paper. We informed Professor Batra of this situation and he instructed us to let you know in this disclaimer.
+
 There are multiple datasets needed in order to run the code.
 To get the BSD 400 Dataset to generate training data for the DnCNN, use https://github.com/cszn/DnCNN
 
